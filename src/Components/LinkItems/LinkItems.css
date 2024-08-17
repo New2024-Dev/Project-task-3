@@ -13,3 +13,10 @@ button{
     background-color: hsl(75, 94%, 57%);
     color: black;
 }
+
+@media only screen and (max-width: 600px){
+    button{
+        width: 150px;
+    }
+}
+
