@@ -1,0 +1,34 @@
+#profildiv{
+height: 40%;  
+
+display: flex;
+flex-direction: column;
+align-items: center;
+color: white;
+box-sizing: border-box;
+padding-top: 30px;
+}
+
+#profildiv  >img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+   
+}
+
+#name{
+    margin: 0;
+    padding-top: 5px;
+}
+
+#address{
+    margin: 0;
+    font-size: 15px;
+    padding-top: 8px;
+    color: hsl(75, 94%, 57%);
+    font-weight: 400;
+}
+
+#job{
+    color: rgb(175, 173, 173);
+}

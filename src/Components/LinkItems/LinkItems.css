@@ -1,0 +1,15 @@
+button{
+    width: 250px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
+
+#butdiv :hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}

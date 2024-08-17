@@ -1,0 +1,7 @@
+#contlink{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
+    margin-top: 10px;
+}
